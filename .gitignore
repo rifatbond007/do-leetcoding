@@ -1,0 +1,15 @@
+# Editor / OS cruft
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Build artifacts
+*.o
+*.out
+*.exe
+build/
+
+# User-specific tooling config (not part of the public repo)
+.puku-cli/
